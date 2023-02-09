@@ -70,3 +70,36 @@ color: #151414;
 .list>p>i{
     color: aquamarine;
 }
+
+/* midele second section style */
+.thard-title{
+    text-align: center;
+    font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+color: #151414;
+margin-bottom: 50px;
+}
+.second-midele{
+    display: flex;
+    justify-content:space-evenly;
+     
+}
+
+.forth-title{ 
+    font-weight: 700;
+font-size: 25px;
+line-height: 35px;
+text-align: center;
+color: #151414;
+}
+.forth-description{
+    font-weight: 500;
+font-size: 25px;
+line-height: 29px;
+text-align: center;
+color: #737272;
+}
+.title-img>img{
+    padding-left: 50px;
+}
