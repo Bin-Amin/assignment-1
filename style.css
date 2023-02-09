@@ -108,7 +108,7 @@ color: #737272;
 /* medele thard section style */
 .thard-medele{
 
-    padding: 100px;
+    padding: 80px;
        background: linear-gradient(60deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%),url(/images/watch.png);
     background-repeat: no-repeat;
     border-radius: 8px;
@@ -117,6 +117,63 @@ color: #737272;
 .fifth-title{
     font-weight: 700;
 font-size: 40px;
-
 color: #FFFFFF;
+
 }
+.btn-medele{
+    width: 160px;
+    height: 64px;
+    font-weight: 600;
+font-size: 20px;
+border: 0;
+border-radius: 5px;
+color: #F15B22;
+margin-top: 15px;
+}
+
+/* footer section style */
+.footer{
+    display: flex;
+    gap: 300px;
+    padding: 150px 90px;
+background: #151414;
+color: #F8F8F8;
+}
+.sixth-title{
+    font-weight: 700;
+font-size: 45px;
+}
+.last-p{
+    font-weight: 400;
+line-height: 26px;
+padding: 10px 0;
+
+}
+.em{
+    line-height: 26px;
+    padding: 10px 0;
+}
+
+.icon{
+    display:flex;
+    gap: 30px;
+    margin-top: 30px;
+}
+.last-title{
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 29px;
+    color: #FFFFFF;
+}
+input{
+    width: 300px;
+    height: 64px;
+    border-color: #F8F8F8;
+    border-radius: 5px;
+    background: #151414;
+    margin: 20px 0;
+}
+::placeholder { 
+    color:  #FFFFFF;
+     
+  }
