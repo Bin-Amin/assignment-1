@@ -41,3 +41,32 @@ margin-bottom: 30px;
     border: 0;
     border-radius: 5px;
 }
+
+/* middle section style */
+.second-section{
+    display: flex;
+    margin: 100px;
+}
+.intodaction{
+    display: inline-block;
+    margin: auto;
+    margin-left: 90px;
+}
+.second-title{
+    font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+color: #151414;
+}
+.second-description{
+    line-height: 26px;
+    color: #444343;
+    margin-bottom: 16px;
+}
+.list{
+    line-height:30px;
+    color: #444343;
+}
+.list>p>i{
+    color: aquamarine;
+}
