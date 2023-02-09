@@ -83,6 +83,7 @@ margin-bottom: 50px;
 .second-midele{
     display: flex;
     justify-content:space-evenly;
+    margin-bottom: 100px;
      
 }
 
@@ -102,4 +103,20 @@ color: #737272;
 }
 .title-img>img{
     padding-left: 50px;
+}
+
+/* medele thard section style */
+.thard-medele{
+
+    padding: 100px;
+       background: linear-gradient(60deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%),url(/images/watch.png);
+    background-repeat: no-repeat;
+    border-radius: 8px;
+    margin: 100px 145px;
+}
+.fifth-title{
+    font-weight: 700;
+font-size: 40px;
+
+color: #FFFFFF;
 }
